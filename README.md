@@ -65,7 +65,7 @@ Each record represents one patient and their medical condition during a follow-u
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 This project demonstrates the practical use of PostgreSQL in handling real-world
 medical data and performing meaningful analysis using SQL. It highlights how databases
 can support healthcare data analysis and decision-making.
